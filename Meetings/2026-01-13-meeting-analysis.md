@@ -15,7 +15,7 @@ This was an introductory/discovery meeting between Codename 37 (a Cloudera strat
 | Name | Role | Organization |
 |------|------|--------------|
 | Michael Brendan | CEO & Co-founder | Codename 37 |
-| Dr. Jake Tripple | CTO & Co-founder | Codename 37 |
+| Dr. Jake Trippel | CTO & Co-founder | Codename 37 |
 | Richard Gray | Network Team (Senior) | Brookshire Grocery |
 | Jordan | Participant | Unknown |
 
@@ -87,7 +87,7 @@ Key questions Brookshire is evaluating:
 ### 6. AI Silos Warning
 **Relevance: STRATEGIC**
 
-Dr. Tripple introduced the concept of **"AI silos"** as an emerging risk:
+Dr. Trippel introduced the concept of **"AI silos"** as an emerging risk:
 - Beyond data silos, organizations risk creating disconnected AI solutions
 - Every vendor/tool building separate AI stacks
 - Unified data platform positioned as foundational to prevent this fragmentation
@@ -183,7 +183,7 @@ Extended discussion on:
 
 > "Cloud costs skyrocket fast if you don't watch it" - Richard Gray
 
-> "The trap that's coming here is AI silos" - Dr. Jake Tripple
+> "The trap that's coming here is AI silos" - Dr. Jake Trippel
 
 > "I've just got to deliver the A to Z bandwidth to get there" - Richard Gray
 
